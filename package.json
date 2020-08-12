@@ -1,9 +1,9 @@
 {
   "name": "gatsby-starter-default",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "A simple starter to get up and developing quickly with Gatsby and TailwindCSS",
+  "version": "0.2.0",
+  "author": "Kostas Vrouvas <hello@kosvrouvas.com>",
   "dependencies": {
     "autoprefixer": "^9.8.0",
     "gatsby": "^2.22.12",
@@ -42,9 +42,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/kosvrouvas/gatsby-tailwindcss-starter"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/kosvrouvas/gatsby-tailwindcss-starter/issues"
   }
 }
