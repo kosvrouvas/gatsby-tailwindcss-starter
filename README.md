@@ -1,14 +1,14 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
+    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
 <h1 align="center">
   Gatsby & TailwindCSS starter
 </h1>
 
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=kosvrouvas_gatsby-tailwindcss-starter&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=kosvrouvas_gatsby-tailwindcss-starter)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=kosvrouvas_gatsby-tailwindcss-starter&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=kosvrouvas_gatsby-tailwindcss-starter) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=kosvrouvas_gatsby-tailwindcss-starter&metric=security_rating)](https://sonarcloud.io/dashboard?id=kosvrouvas_gatsby-tailwindcss-starter) [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=kosvrouvas_gatsby-tailwindcss-starter&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=kosvrouvas_gatsby-tailwindcss-starter)
 
 Kick off your project with this default boilerplate with TailwindCSS. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
