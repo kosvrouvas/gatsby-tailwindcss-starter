@@ -8,6 +8,8 @@
   Gatsby & TailwindCSS starter
 </h1>
 
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=kosvrouvas_gatsby-tailwindcss-starter&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=kosvrouvas_gatsby-tailwindcss-starter)
+
 Kick off your project with this default boilerplate with TailwindCSS. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
