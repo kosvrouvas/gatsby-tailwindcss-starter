@@ -17,7 +17,7 @@
     "gatsby-plugin-sentry": "^1.0.1",
     "gatsby-plugin-sharp": "^2.9.0",
     "gatsby-source-filesystem": "^2.6.1",
-    "gatsby-transformer-sharp": "^2.7.0",
+    "gatsby-transformer-sharp": "^2.10.0",
     "postcss": "^8.1.10",
     "prop-types": "^15.7.2",
     "react": "^16.14.0",
