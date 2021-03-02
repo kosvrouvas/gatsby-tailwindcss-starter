@@ -47,6 +47,5 @@
   },
   "bugs": {
     "url": "https://github.com/kosvrouvas/gatsby-tailwindcss-starter/issues"
-  },
-  "engines" : { "node" : "13" }
+  }
 }
