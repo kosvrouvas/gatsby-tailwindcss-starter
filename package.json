@@ -2,7 +2,7 @@
   "name": "gatsby-starter-default",
   "private": true,
   "description": "A simple starter to get up and developing quickly with Gatsby and TailwindCSS",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "author": "Kostas Vrouvas <hello@kosvrouvas.com>",
   "dependencies": {
     "autoprefixer": "^10.2.4",
@@ -47,5 +47,6 @@
   },
   "bugs": {
     "url": "https://github.com/kosvrouvas/gatsby-tailwindcss-starter/issues"
-  }
+  },
+  "engines" : { "node" : ">=12.13.0" }
 }
