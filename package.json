@@ -16,7 +16,7 @@
     "gatsby-plugin-react-helmet": "^4.3.0",
     "gatsby-plugin-sentry": "^1.0.1",
     "gatsby-plugin-sharp": "3.0.0",
-    "gatsby-source-filesystem": "^3.0.0",
+    "gatsby-source-filesystem": "^3.3.0",
     "gatsby-transformer-sharp": "^3.0.0",
     "postcss": "^8.1.10",
     "prop-types": "^15.7.2",
