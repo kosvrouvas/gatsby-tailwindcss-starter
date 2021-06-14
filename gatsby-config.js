@@ -4,6 +4,9 @@ module.exports = {
     description: `Kick off your next, great Gatsby project with this default starter with TailwindCSS and common dev tools. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@kosvrouvas`,
   },
+  flags: {
+    THE_FLAG: false
+  },
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
@@ -55,15 +58,6 @@ module.exports = {
         siteSpeedSampleRate: 10,
         cookieDomain: "example.com",
       },
-    },
-    {
-      resolve: "gatsby-plugin-sentry",
-      options: {
-        dsn: "YOUR_SENTRY_DSN_URL",
-        // Optional settings, see https://docs.sentry.io/clients/node/config/#optional-settings
-        environment: process.env.NODE_ENV,
-        enabled: (() => ["production", "stage"].indexOf(process.env.NODE_ENV) !== -1)()
-      }
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
