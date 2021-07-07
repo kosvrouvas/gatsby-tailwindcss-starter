@@ -9,7 +9,7 @@
     "gatsby": "^3.7.1",
     "gatsby-image": "^3.7.1",
     "gatsby-plugin-google-analytics": "^3.7.1",
-    "gatsby-plugin-image": "^1.7.1",
+    "gatsby-plugin-image": "^1.9.0",
     "gatsby-plugin-manifest": "^3.7.1",
     "gatsby-plugin-offline": "^4.7.1",
     "gatsby-plugin-postcss": "^4.7.1",
