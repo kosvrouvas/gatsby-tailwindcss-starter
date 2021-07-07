@@ -14,7 +14,7 @@
     "gatsby-plugin-offline": "^4.7.1",
     "gatsby-plugin-postcss": "^4.7.1",
     "gatsby-plugin-purgecss": "^6.0.2",
-    "gatsby-plugin-react-helmet": "^4.7.1",
+    "gatsby-plugin-react-helmet": "^4.9.0",
     "gatsby-plugin-sharp": "^3.7.1",
     "gatsby-source-filesystem": "^3.7.1",
     "gatsby-transformer-sharp": "^3.7.1",
