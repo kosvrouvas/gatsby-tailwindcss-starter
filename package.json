@@ -5,8 +5,8 @@
   "version": "0.3.0",
   "author": "Kostas Vrouvas <hello@kosvrouvas.com>",
   "dependencies": {
-    "autoprefixer": "^10.2.6",
-    "gatsby": "^4.0.0",
+    "autoprefixer": "^10.4.0",
+    "gatsby": "^4.0.2",
     "gatsby-plugin-google-analytics": "^4.0.0",
     "gatsby-plugin-image": "^2.0.0",
     "gatsby-plugin-manifest": "^4.0.0",
@@ -14,18 +14,18 @@
     "gatsby-plugin-postcss": "^5.0.0",
     "gatsby-plugin-purgecss": "^6.0.2",
     "gatsby-plugin-react-helmet": "^5.0.0",
-    "gatsby-plugin-sharp": "^4.0.0",
+    "gatsby-plugin-sharp": "^4.0.1",
     "gatsby-source-filesystem": "^4.0.0",
     "gatsby-transformer-sharp": "^4.0.0",
-    "postcss": "^8.3.4",
+    "postcss": "^8.3.11",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
-    "prettier": "^2.3.1",
-    "tailwindcss": "^2.1.4"
+    "prettier": "^2.4.1",
+    "tailwindcss": "^2.2.19"
   },
   "keywords": [
     "gatsby"
