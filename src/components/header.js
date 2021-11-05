@@ -49,7 +49,9 @@ function Header({ siteTitle }) {
         </div>
         <div>
           <a
-            href="#download"
+            href="https://github.com/kosvrouvas/gatsby-tailwindcss-starter"
+            target="_blank"
+            rel="noreferrer"
             className="inline-block px-4 py-2 mt-4 text-sm leading-none text-white border border-white rounded hover:border-transparent hover:text-black hover:bg-white lg:mt-0"
           >
             Download
