@@ -6,7 +6,7 @@ function Header({ siteTitle }) {
   const [isExpanded, toggleExpansion] = useState(false)
 
   return (
-    <nav className="flex flex-wrap items-center justify-between p-6 mb-6 bg-gradient-to-r from-purple-400 via-pink-500 to-red-500">
+    <nav className="flex flex-wrap items-center justify-between p-6 mb-6 bg-gray-800">
       <div className="flex items-center flex-shrink-0 mr-6 text-white">
         <span className="text-xl font-semibold tracking-tight">
           {siteTitle}
